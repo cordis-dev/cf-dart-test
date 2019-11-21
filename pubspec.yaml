@@ -1,0 +1,4 @@
+name: test
+
+dependencies:
+  pedantic: ^1.8.0
