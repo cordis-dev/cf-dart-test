@@ -1,5 +1,9 @@
 include: package:pedantic/analysis_options.yaml
 
+analyzer:
+  errors:
+    todo: ignore
+
 linter:
   rules:
     avoid_shadowing_type_parameters: false
