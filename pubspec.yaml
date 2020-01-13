@@ -1,4 +1,5 @@
-name: test
+name: global
 
 dependencies:
-  pedantic: ^1.8.0
+  effective_dart: ^1.1.1
+  pedantic: ^1.8.0+1
