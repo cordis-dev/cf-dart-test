@@ -1,5 +1,7 @@
 name: global
-
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+  
 dependencies:
   effective_dart: ^1.1.1
   pedantic: ^1.8.0+1
