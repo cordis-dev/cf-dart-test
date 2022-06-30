@@ -5,7 +5,7 @@ environment:
 dependencies:
   effective_dart: ^1.1.1
   pedantic: ^1.8.0+1
-  meta: ^1.3.0
+  meta: ^1.8.0
   lint: ^1.0.0
-  flutter_lints: ^1.0.4
-  very_good_analysis: ^2.4.0
+  flutter_lints: ^2.0.0
+  very_good_analysis: ^3.0.0
