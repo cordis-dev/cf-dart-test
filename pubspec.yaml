@@ -6,7 +6,7 @@ dependencies:
   effective_dart: ^1.1.1
   pedantic: ^1.8.0+1
   meta: ^1.16.0
-  lint: ^2.3.0
+  lint: ^2.8.0
   lints: ^5.1.1
   flutter_lints: ^5.0.0
   very_good_analysis: ^7.0.0
